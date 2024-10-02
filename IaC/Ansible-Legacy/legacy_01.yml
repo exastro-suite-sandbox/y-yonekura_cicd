@@ -1,0 +1,3 @@
+- command: echo {{ GBL_01 }}
+- command: echo {{ VAR_01 }}
+
